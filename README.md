@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://files.catbox.moe/rzv1z1.png)
+
+</div>
+<br>
 <div align="center">hi, you can call me <b>jesse</b> or <b>indiana</b>!</div>
 <br>
 <div align="center">
@@ -50,6 +56,6 @@ jesse pinkman, amy sosa & jonah simms, daryl dixon,
 <br>
 <div align="center">
 
-![](https://files.catbox.moe/be6hcf.webp)
+![](https://files.catbox.moe/pwu1fj.png)
 
 </div>
