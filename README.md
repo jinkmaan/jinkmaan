@@ -1,9 +1,3 @@
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=jinkmaan&style=for-the-badge&label=loyal+followers&base=3645004)
-
-</div>
-<br>
 <div align="center">hi, you can call me <b>jesse</b> or <b>indiana</b>!</div>
 <br>
 <div align="center">
@@ -53,6 +47,7 @@ jesse pinkman, amy sosa & jonah simms, daryl dixon,
   <br>vivziepop supporters/defenders
   <br><i>hazbin hotel/helluva boss fans on thin ice</i>
 </details></div>
+<br>
 <div align="center">
 
 ![](https://files.catbox.moe/be6hcf.webp)
