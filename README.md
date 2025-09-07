@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=jinkmaan&colour=75dc64&label=loyal+followers&base=3645004)
+![](https://komarev.com/ghpvc/?username=jinkmaan&style=for-the-badge&label=loyal+followers&base=3645004)
 
 </div>
 <br>
