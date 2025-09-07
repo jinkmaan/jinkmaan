@@ -1,3 +1,9 @@
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=jinkmaan&colour=75dc64&label=loyal+followers&base=3645004)
+
+</div>
+<br>
 <div align="center">hi, you can call me <b>jesse</b> or <b>indiana</b>!</div>
 <br>
 <div align="center">
