@@ -5,11 +5,12 @@
 </div>
 <br>
 <div align="center">hi, you can call me <b>jesse</b> or <b>indiana</b>!</div>
+<div align="center">this is my intro for ponytown</div>
 <br>
 <div align="center">
   
   ![](https://files.catbox.moe/xe3kt4.png) </div>
-  
+<div align="center">· · ─────── ·𖥸· ─────── · ·</div>
 <br>
 <div align="center"><details>
   <summary>about me</summary>
@@ -19,7 +20,7 @@
 </details></div>
 
 <div align="center">
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>  
+──── ·𖥸· ────<br>  
 </div>
 <br>
 <div align="center"><details>
@@ -42,7 +43,7 @@ jesse pinkman, amy sosa & jonah simms, daryl dixon,
 </details></div>
 
 <div align="center">
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>  
+──── ·𖥸· ────<br>  
 </div>
 <br>
 <div align="center"><details>
