@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">hi, you can call me <b>jesse</b> or <b>indiana</b>!</div>
-<div align="center">this is my intro for ponytown</div>
+<div align="center">this is my intro for <i><ins>ponytown</ins></i></div>
 <br>
 <div align="center">
   
