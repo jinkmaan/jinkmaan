@@ -29,6 +29,11 @@
   <br>TADC
   <br>zelda (botw & totk)
 </details></div>
+<div align="center"><details>
+  <summary><i>comf characters</i></summary>
+jesse pinkman, amy sosa & jonah simms, daryl dixon,
+  <br>white lily cookie & pure vanilla cookie
+</details></div>
 
 <div align="center">
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<br>  
