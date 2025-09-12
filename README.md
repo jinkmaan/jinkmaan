@@ -17,6 +17,7 @@
   15 years old, autism & adhd, INFP
   <br> he/they, please don't use she/her
   <br> c+h always appreciated but don't cover me
+  <br> i am australian!!
 </details></div>
 
 <div align="center">
